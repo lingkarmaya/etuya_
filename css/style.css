@@ -960,7 +960,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
 }
 .demo_area .bg_demo {
   position: absolute;
-  height: 755px;
+  height: 100%;
   background: #f9fafe;
   width: 100%;
   top: 0;
